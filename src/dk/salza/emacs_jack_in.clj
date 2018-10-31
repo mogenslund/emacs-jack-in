@@ -7,7 +7,7 @@
 
     {:deps mogenslund/emacs-jack-in
            {:git/url \"https://github.com/mogenslund/emacs-jack-in.git\"
-            :tag \"v0.1.0\"}}
+            :tag \"v0.1.1\"}}
 
   to deps.edn
 
