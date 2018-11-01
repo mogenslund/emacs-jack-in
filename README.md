@@ -1,5 +1,6 @@
 # emacs-jack-in
-Experimental extensions for Liquid to take advantage of elisp through Emacs
+Experimental extensions for Liquid to take advantage of elisp through Emacs.
+Usually Emacs hooks into other entities, but this one does the opposite!
 
 ## To install
 The [liquid-starter-kit](https://github.com/mogenslund/liquid-starter-kit) can be used as example and in general as a way to setup Liquid locally.
